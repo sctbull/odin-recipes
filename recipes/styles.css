@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(240, 239, 204);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 72px;
+    text-align: center;
+}
+
+span {
+    color: rgb(77, 190, 190);
+}
+
+img {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    float: left;
+    padding: 50px;
+}
+
+p,
+h1,
+h2,
+h3 {
+    color: rgb(33, 32, 32);
+}
+
+h2 {
+    padding-top: 50px;
+}

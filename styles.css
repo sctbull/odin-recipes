@@ -1,0 +1,42 @@
+body {
+    background-color: slategrey;
+}
+
+h1 {
+    color: rgb(240, 239, 204);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 72px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+li {
+    margin-bottom: 30px;
+}
+a {
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+    color: rgb(33, 32, 32);
+}
+a:hover {
+    color: rgb(77, 190, 190);
+}
+
+span {
+    color: rgb(230, 207, 73);
+}
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+.squiggle {
+    padding: 20px;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(206, 49, 70);
+}
